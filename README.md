@@ -6,7 +6,7 @@ This project presents a comprehensive **Sales data analysis dashboard** created 
 | File | Description |
 |------|-------------|
 | `Data`:`Superstore_Sales_Analysis_Dashboard.xlsx` | Main Excel file containing the raw data and the interactive dashboard |
-| `Superstore_Dashboard_Preview.pdf` | PDF snapshot of the final dashboard for preview |
+| `Preview`:`Superstore_Dashboard_Preview.pdf` | PDF snapshot of the final dashboard for preview |
 | `README.md` | Documentation and project overview |
 
 ---

@@ -32,6 +32,13 @@ This project presents a comprehensive **Sales data analysis dashboard** created 
 
 ---
 
+## 📁 Dataset
+- **Source**: [Kaggle - Superstore Sales Dataset](https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset)
+- **Content**: Sales transactions including product details, geographical information, customer segments, order timelines, and revenue figures.
+- **License**: Public dataset for learning and analytics purposes.
+
+---
+
 ## 🧰 Tools & Techniques Used
 
 - Microsoft Excel (2016+)
@@ -58,14 +65,16 @@ This project presents a comprehensive **Sales data analysis dashboard** created 
 ## 🙋‍♀️ Author
 
 **Susmita Ghosh**  
-📧 susmitakatwa92@gmail.com
-📱 +91 8927441769  
+📧 [Email](mailto:susmitakatwa92@gmail.com)
+
+<a href="tel:+918927441769">📱 +91 8927441769</a>
+
 
 ---
 
 ## 🌐 Connect with Me
 
-- [LinkedIn] *([https://www.linkedin.com/in/susmitaghosh01/])*
+- [LinkedIn](https://www.linkedin.com/in/susmitaghosh01/)
 
 
 ---

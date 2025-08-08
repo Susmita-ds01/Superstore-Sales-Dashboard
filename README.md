@@ -67,9 +67,6 @@ This project presents a comprehensive **Sales data analysis dashboard** created 
 **Susmita Ghosh**  
 📧 [Email](mailto:susmitakatwa92@gmail.com)
 
-<a href="tel:+918927441769">📱 +91 8927441769</a>
-
-
 ---
 
 ## 🌐 Connect with Me
